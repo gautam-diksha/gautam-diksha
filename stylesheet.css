@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #2f6c94;
+	background-color: #285169;
 	
 }
 .peach-after {
@@ -45,13 +45,13 @@ body {
 		background-color: #285169;
 	}
 	25%{
-		background-color: #285185;
+		background-color: #285168e3;
 	}
 	50%{
 		background-color: #285169;
 	}
 	75%{
-		background-color: #2c658e;
+		background-color: #285169;
 	}
 	100%{
 		background-color: #285169;
@@ -63,7 +63,7 @@ body {
 		background-color: #285169;
 	}
 	25%{
-		background-color: #2c658e;
+		background-color: #285169;
 	}
 	50%{
 		background-color: #285169;
@@ -81,7 +81,7 @@ body {
 		background-color: #285169;
 	}
 	25%{
-		background-color: #2c658e;
+		background-color: #285169;
 	}
 	50%{
 		background-color: #285169;
@@ -99,7 +99,7 @@ body {
 		background-color: #285169;
 	}
 	25%{
-		background-color: #2c658e;
+		background-color: #285169;
 	}
 	50%{
 		background-color: #285169;
@@ -1322,7 +1322,7 @@ audio {
         height: auto;
         transform: translateX(-50%) translateY(-50%);
         z-index: -10;
-        opacity: 0.2;
+        opacity: 0.1;
         display: none;
     }
 
