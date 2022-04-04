@@ -1322,7 +1322,7 @@ audio {
         height: auto;
         transform: translateX(-50%) translateY(-50%);
         z-index: -10;
-        opacity: 0.4;
+        opacity: 0.2;
         display: none;
     }
 
