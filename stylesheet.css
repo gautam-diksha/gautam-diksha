@@ -1299,6 +1299,7 @@ audio {
         height: auto;
         font-size: 45px;
         margin-bottom:10px;
+        text-align: center;
     }
 
 
