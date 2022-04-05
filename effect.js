@@ -1,9 +1,13 @@
 $(window).load(function(){
 	$('.loading').fadeOut('fast');
 	$('.container').fadeIn('fast');
+    var video = $('.fullscreen-video')[0];
+        video.pause();
+    
 });
 $('document').ready(function(){
 		var vw;
+        
 		$(window).resize(function(){
 			 vw = $(window).width()/2;
 			$('#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9').stop();
